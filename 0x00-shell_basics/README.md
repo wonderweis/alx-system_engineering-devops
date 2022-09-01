@@ -1,1 +1,1 @@
-Display current directory contents.long format, numerically and Hidden files
+script that creates a directory named my_first_directory in the /tmp/ directory.
