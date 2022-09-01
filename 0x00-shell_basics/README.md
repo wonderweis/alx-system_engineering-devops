@@ -1,1 +1,1 @@
- script that prints the type of the file
+symbolic link
